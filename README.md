@@ -22,7 +22,8 @@ Project is created using:
 * Heroku
 
 ## **_Usage_**
-SCREENSHOT
+![screenshot](https://user-images.githubusercontent.com/77917594/131511926-44057409-8f0f-4b37-b846-06dd42d1c5ca.png)
+
 
 ## **_Installation_**
 Here are some guidelines for installing the project on your local machine in order to be able to try it: 
@@ -40,3 +41,4 @@ https://github.com/Volchenok89/my-budget-tracking
 
 ## **_Link URL of deployed app to Heroku_**
 
+https://my-budget-tracking.herokuapp.com/
