@@ -22,7 +22,7 @@ Project is created using:
 * Heroku
 
 ## **_Usage_**
-![Screen Shot 2021-06-25 at 7 44 24 AM](https://user-images.githubusercontent.com/78329298/123441890-31f04d80-d589-11eb-837f-1e9380a7b147.png)
+SCREENSHOT
 
 ## **_Installation_**
 Here are some guidelines for installing the project on your local machine in order to be able to try it: 
@@ -36,7 +36,7 @@ Here are some guidelines for installing the project on your local machine in ord
 4. Enjoy and don't hesitate to contribute!
 
 ## **_Link URL to GitHub Repository_**
-https://github.com/Volchenok89/budget-tracking
+https://github.com/Volchenok89/my-budget-tracking
 
 ## **_Link URL of deployed app to Heroku_**
-https://ancient-reef-14164.herokuapp.com/
+
